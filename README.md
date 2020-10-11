@@ -1,15 +1,15 @@
 # Fashion-Image-Classification
- By Mr.Abderaouf Tiouche & Mr.Manssour Belhadi 
- 
+ By Mr.Abderaouf Tiouche & Mr.Manssour Belhadi  
+
 # Requirements
-  You must have this packages installed on your machine :
+  You must have the following libraries installed on your machine :
   
   numpy , Keras , opencv_python , Werkzeug 
   
 # How to use! 
- 1 . Download the project 
+ 1 . Download the repository 
  
- 2 . Create a new folder named " model " inside the project folder
+ 2 . Create a new folder named " model " inside the repository folder
  
  3 . Download the models weights from this link : https://drive.google.com/drive/folders/1wIFsav7YBsd2BHlcyjlmigpxju4fGKwu?usp=sharing
  
@@ -19,4 +19,5 @@
  
  6 . Type this address on your browser : http://http://127.0.0.1:5000/ and you are Done!
  
- 
+# License
+Feel free to use any part of my project. Reach out to me if you need something else, I would love to hear from you. 
