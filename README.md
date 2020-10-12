@@ -17,7 +17,7 @@
  
  5 . Run the " app.py " file by using the command " python app.py "
  
- 6 . Type this address on your browser : http://http://127.0.0.1:5000/ and you are Done!
+ 6 . Type this address on your browser : http://127.0.0.1:5000/ and you are Done!
  
 # License
 Feel free to use any part of my project. Reach out to me if you need something else, I would love to hear from you. 
